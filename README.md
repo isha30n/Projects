@@ -1,1 +1,2 @@
 Career GeNIE-Placement Management Portal
+-	Career GeNIE simplifies the placement process in engineering colleges with a user-friendly system. Students register and gain access to a comprehensive dashboard for exploring and applying to drives, events, and notifications. Placement coordinators and administrators have dedicated dashboards for managing and overseeing the process, aiming to enhance the placement experience for all stakeholders.
